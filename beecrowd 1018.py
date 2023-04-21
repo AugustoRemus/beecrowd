@@ -1,4 +1,5 @@
 d = int(input())
+print(d)
 
 cem = 0
 cin = 0
